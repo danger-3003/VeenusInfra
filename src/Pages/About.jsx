@@ -90,7 +90,7 @@ function About() {
                 </Marquee>
             </div> */}
             <Quotation />
-            <Clients />
+            {/* <Clients /> */}
         </>
     );
 }

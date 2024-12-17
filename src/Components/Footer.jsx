@@ -21,8 +21,8 @@ function Footer() {
                 <p className="font-medium text-center text-xl sm:text-2xl">
                     Buy Premium Apartments in vizag.
                 </p>
-                <div className="flex items-center justify-between flex-col lg:flex-row w-full px-5 md:px-10 gap-5 lg:gap-10 xl:w-[70rem] mt-10">
-                    <div className="flex items-start justify-start gap-5 lg:gap-10 flex-wrap xl:w-[30rem]">
+                <div className="flex items-start justify-between flex-col lg:flex-row w-full px-5 md:px-10 gap-5 lg:gap-10 xl:w-[70rem] mt-10">
+                    {/* <div className="flex items-start justify-start gap-5 lg:gap-10 flex-wrap xl:w-[30rem]">
                         <div className="flex items-start justify-center flex-col font-extralight">
                             <p className="font-semibold uppercase mb-3 text-lg">
                                 On&nbsp;Going&nbsp;Projects
@@ -43,8 +43,8 @@ function Footer() {
                             <Link>Abhiram's Sri Raj Castles</Link>
                             <Link>Abhiram's Diamond Spring</Link>
                         </div>
-                    </div>
-                    <div className="flex items-start justify-start gap-5 lg:gap-10 flex-wrap xl:w-[30rem]">
+                    </div> */}
+                    {/* <div className="flex items-start justify-start gap-5 lg:gap-10 flex-wrap xl:w-[30rem]"> */}
                         <div className="flex items-start justify-center flex-col font-extralight w-min">
                             <p className="font-semibold uppercase mb-3 text-lg">
                                 Quick&nbsp;Links
@@ -59,11 +59,11 @@ function Footer() {
                                 Address
                             </p>
                             <a>ABHIRAM HOUSE D.No. 31-9-1/5, Road No-4, Sathavahana Nagar, Kurmmannapalem, Visakhapatnam - 530046.</a>
-                            <a href="tel:+91 9133273338"><FontAwesomeIcon icon={faPhone} className="mr-2"/> 9133273338</a>
-                            <a href="https://api.whatsapp.com/send?phone=919803123999&text=I%20am%20interested%20in%20Abhiram%20Projects%20and%20need%20information." target="_blank"><FontAwesomeIcon icon={faWhatsapp} className="text-lg mr-2"/> 9848464448</a>
+                            <a href="tel:+91 9160266626"><FontAwesomeIcon icon={faPhone} className="mr-2"/> 9160266626</a>
+                            <a href="https://api.whatsapp.com/send?phone=919701616666&text=I%20am%20interested%20in%20Abhiram%20Projects%20and%20need%20information." target="_blank"><FontAwesomeIcon icon={faWhatsapp} className="text-lg mr-2"/> 9848464448</a>
                             <a href="mailto:abiramnirman@gmail.com"><FontAwesomeIcon icon={faEnvelope} className="-mb-0.5"/> abiramnirman@gmail.com</a>
                         </div>
-                    </div>
+                    {/* </div> */}
                 </div>
             </div>
         </div>
