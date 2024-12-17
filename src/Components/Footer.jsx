@@ -1,6 +1,6 @@
 import React from "react";
 import Bg from "../assets/About/bottomBg.jpg";
-import Logo from "../assets/Logo.svg";
+import Logo from "../assets/Logo.png";
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";

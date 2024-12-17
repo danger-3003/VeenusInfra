@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { faBars, faTimes, faPhone } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Logo from "../assets/Logo.svg";
+import Logo from "../assets/Logo.png";
 
 function Navbar() {
     const [menu, setMenu] = useState(false);
