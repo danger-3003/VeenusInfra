@@ -69,7 +69,7 @@ export default function App() {
                                 <p className="bg-gradient-to-r from-BStart via-BMiddle to-BEnd text-transparent bg-clip-text font-[Italiana] text-center sm:text-left text-[1.4rem] sm:text-2xl md:text-3xl lg:text-4xl font-medium">
                                     Essence Of Living
                                 </p>
-                                <p className="bg-gradient-to-r from-BStart via-BMiddle to-BEnd text-transparent bg-clip-text font-[Italiana] font-bold">
+                                <p className="bg-gradient-to-r from-BStart via-BMiddle to-BEnd text-transparent bg-clip-text font-[Italiana] font-bold text-center">
                                     Possession: Year Ending 2026
                                 </p>
                                 <div className="text-BStart flex items-start justify-center gap-5 lg:gap-10 mt-5 md:mt-10">
@@ -124,7 +124,7 @@ export default function App() {
                             <h1 className="bg-gradient-to-r h-14 text-center from-BStart via-BMiddle to-BEnd text-transparent bg-clip-text sm:text-left text-[1.4rem] sm:text-2xl md:text-3xl lg:text-4xl font-bold">
                                 Building Plan
                             </h1>
-                            <p className="font-[Montserrat] text-center">The Architecture and the Blue Print of the Flats are shown below.</p>
+                            <p className="font-[Montserrat] text-center px-5">The Architecture and the Blue Print of the Flats are shown below.</p>
                             <div className="flex items-center justify-center flex-row flex-wrap mt-10">
                                 <div className="w-60 md:w-80">
                                     <ImageZoom src={Plan1} alt="Plan1" zoom="200"/>
