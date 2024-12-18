@@ -4,6 +4,7 @@ import "./index.css";
 import App from "./App.jsx";
 import Navbar from "./Components/Navbar.jsx"
 import Footer from "./Components/Footer.jsx"
+import Sarada from "./Pages/Sarada.jsx"
 import { createBrowserRouter, Outlet, RouterProvider } from "react-router-dom";
 
 const Structure = () => {
@@ -23,7 +24,12 @@ const router=createBrowserRouter([
         children:[{
             path:"/",
             element:<App />
-        }]
+        },
+        {
+            path:"/sriSaiSarada",
+            element:<Sarada />
+        }
+        ]
     }
 ])
 

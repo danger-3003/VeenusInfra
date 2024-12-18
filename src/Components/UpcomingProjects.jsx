@@ -107,7 +107,8 @@ export default function App() {
                                     </div>
                                     <div className="mx-5 md:mx-3 lg:mx-5 my-1">
                                         <a
-                                            href="tel:+"
+                                            href="https://maps.app.goo.gl/BowaCARczo2n99Hw5"
+                                            target="_blank"
                                             className="bg-none border border-BStart hover:text-white text-BEnd hover:bg-gradient-to-r duration-300 from-BStart via-BMiddle to-BEnd font-semibold text-[0.7rem] md:text-sm px-4 md:px-5 my-1 py-2 rounded-[0.25rem]"
                                         >
                                             <FontAwesomeIcon

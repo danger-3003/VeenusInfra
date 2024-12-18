@@ -58,7 +58,7 @@ function Footer() {
                             <p className="font-semibold uppercase mb-3 text-lg">
                                 Address
                             </p>
-                            <a>ABHIRAM HOUSE D.No. 31-9-1/5, Road No-4, Sathavahana Nagar, Kurmmannapalem, Visakhapatnam - 530046.</a>
+                            <a>Near Varma Complex, Opp. Vijaya Medicalas, Madavadara, Visakhapatnam - 530007.</a>
                             <a href="tel:+91 9160266626"><FontAwesomeIcon icon={faPhone} className="mr-2"/> 9160266626</a>
                             <a href="https://api.whatsapp.com/send?phone=919701616666&text=I%20am%20interested%20in%20Abhiram%20Projects%20and%20need%20information." target="_blank"><FontAwesomeIcon icon={faWhatsapp} className="text-lg mr-2"/> 9848464448</a>
                             <a href="mailto:abiramnirman@gmail.com"><FontAwesomeIcon icon={faEnvelope} className="-mb-0.5"/> abiramnirman@gmail.com</a>

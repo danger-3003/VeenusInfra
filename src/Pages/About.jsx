@@ -6,6 +6,7 @@ import Element from "../assets/MarqueeElement.svg";
 import Quotation from "../Components/Quotation";
 import Clients from "./Clients";
 import RoadMap from "../assets/About/roadMap.jpg";
+import RoadMapBig from "../assets/About/roadMapBig.jpg";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -63,6 +64,21 @@ function About() {
                                 suppliers.
                             </p>
                         </div>
+                    </div>
+                </div>
+                <div className="flex items-center justify-center flex-wrap sm:flex-row gap-10 mt-10">
+                    <div>
+                        <img src={RoadMapBig} alt="RoadMap" className="h-60 sm:h-80"/>
+                    </div>
+                    <div className="font-[Montserrat]">
+                        <h1 className="bg-gradient-to-tr from-BStart via-BMiddle to-BEnd bg-clip-text text-transparent font-bold text-xl sm:text-2xl lg:text-3xl">Location Highlights</h1>
+                        <ul className="list-disc ml-5 font-medium mt-2">
+                            <li>3.5km to Inorbit Mall</li>
+                            <li>3.1km to ASN Megha Mall</li>
+                            <li>7km to Airport</li>
+                            <li>12min to Railway Station</li>
+                            <li>21min to RK Beach</li>
+                        </ul>
                     </div>
                 </div>
             </div>

@@ -247,8 +247,7 @@ function Contact() {
             <div className="">
                 <iframe
                     className="w-[90vw] h-60 sm:w-[80vw] sm:h-56 md:h-72 md:w-[26rem] lg:h-80 lg:w-[35rem]"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d402.14343031441217!2d83.16181356763741!3d17.688792401084257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3969d932e1eb81%3A0x3fcb1ae81999669a!2sAbhiramnirman%20(India)Pvt.Ltd!5e1!3m2!1sen!2sin!4v1733742801758!5m2!1sen!2sin"
-                    style={{ border: 0 }}
+                    src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3799.9437794228215!2d83.26420100000001!3d17.747287999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTfCsDQ0JzUwLjIiTiA4M8KwMTUnNTEuMSJF!5e0!3m2!1sen!2sin!4v1734498832232!5m2!1sen!2sin"                    style={{ border: 0 }}
                     loading="eager"
                 ></iframe>
             </div>

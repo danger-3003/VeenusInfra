@@ -12,8 +12,8 @@ export default {
                 LMiddle: "#F4EBCE",
             },
             backgroundImage: {
-                navbarGradient:
-                    "linear-gradient(to right, #FBE5CB 0%, #F4EBCE 9%, #F4EBCE 91%, #FBE5CB 100%)",
+                navbarGradient:"linear-gradient(to right, #FBE5CB 0%, #F4EBCE 9%, #F4EBCE 91%, #FBE5CB 100%)",
+                sriSaiSarada:"url('./src/assets/Header.jpg')"
             },
         },
     },

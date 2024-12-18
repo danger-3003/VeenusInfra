@@ -1,6 +1,5 @@
 import { useState } from "react";
-import Iconic from "../assets/Projects/IonicTowers.jpg";
-import Imperio from "../assets/Projects/TsImperio.jpg";
+import Sarada from "../assets/Header.jpg";
 import Line from "../assets/otherProjects/Line.svg";
 import { faChevronUp } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -45,7 +44,7 @@ export default function App() {
                     <div
                         className="h-[28rem] sm:h-[32rem] md:h-[35rem] w-full pt-14"
                         style={{
-                            background: `linear-gradient(to bottom,rgba(0,0,0,0.8),rgba(0,0,0,0.2),rgba(0,0,0,0),rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url(${Iconic})`,
+                            background: `linear-gradient(to bottom,rgba(0,0,0,0.8),rgba(0,0,0,0.2),rgba(0,0,0,0),rgba(0,0,0,0.5),rgba(0,0,0,0.8)),url(${Sarada})`,
                             backgroundPosition: "center left",
                             backgroundSize: "cover",
                         }}
