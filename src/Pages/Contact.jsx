@@ -27,7 +27,7 @@ function Contact() {
             name: details.name,
             email: details.email,
             toMail: "abiramnirman@gmail.com",
-            toName: "Veenus Infra",
+            toName: "AAR Constructions",
             phone: details.number,
             subject: "Enquiry about " + details.Subject, // Include inquiryType in subject
             message: details.Body,
@@ -247,7 +247,8 @@ function Contact() {
             <div className="">
                 <iframe
                     className="w-[90vw] h-60 sm:w-[80vw] sm:h-56 md:h-72 md:w-[26rem] lg:h-80 lg:w-[35rem]"
-                    src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3799.9437794228215!2d83.26420100000001!3d17.747287999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTfCsDQ0JzUwLjIiTiA4M8KwMTUnNTEuMSJF!5e0!3m2!1sen!2sin!4v1734498832232!5m2!1sen!2sin"                    style={{ border: 0 }}
+                    src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3799.9437794228215!2d83.26420100000001!3d17.747287999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTfCsDQ0JzUwLjIiTiA4M8KwMTUnNTEuMSJF!5e0!3m2!1sen!2sin!4v1734498832232!5m2!1sen!2sin"
+                    style={{ border: 0 }}
                     loading="eager"
                 ></iframe>
             </div>

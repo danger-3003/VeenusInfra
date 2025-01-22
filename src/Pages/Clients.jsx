@@ -42,9 +42,9 @@ function Clients() {
                             Customer of Blue Bay Towers
                         </p>
                         <p className="text-center text-BEnd font-medium text-[0.7rem] md:text-sm mt-3">
-                            "We believe that Veenus Infra offered the best value
-                            for the overhaul and new entrance for our building.
-                            We highly recommend Veenus Infra."
+                            "We believe that AAR Constructions offered the best
+                            value for the overhaul and new entrance for our
+                            building. We highly recommend AAR Constructions."
                         </p>
                     </div>
                     <div
@@ -63,8 +63,8 @@ function Clients() {
                             Customer of Touchstone Towers
                         </p>
                         <p className="text-center text-BEnd font-medium text-[0.7rem] md:text-sm mt-3">
-                            "Veenus Infra performed very professionally with
-                            great communication .They earned our confidence
+                            "AAR Constructions performed very professionally
+                            with great communication .They earned our confidence
                             during the upgrade project."
                         </p>
                     </div>
@@ -84,9 +84,9 @@ function Clients() {
                             Customer of Blue Heavens
                         </p>
                         <p className="text-center text-BEnd font-medium text-[0.7rem] md:text-sm mt-3">
-                            "We believe that Veenus Infra offered the best value
-                            for the overhaul and new entrance for our building.
-                            We highly recommend Veenus Infra."
+                            "We believe that AAR Constructions offered the best
+                            value for the overhaul and new entrance for our
+                            building. We highly recommend AAR Constructions."
                         </p>
                     </div>
                     <div
@@ -105,8 +105,8 @@ function Clients() {
                             Customer of Raghava Enclave
                         </p>
                         <p className="text-center text-BEnd font-medium text-[0.7rem] md:text-sm mt-3">
-                            "Veenus Infra performed very professionally with
-                            great communication .They earned our confidence
+                            "AAR Constructions performed very professionally
+                            with great communication .They earned our confidence
                             during the upgrade project"
                         </p>
                     </div>

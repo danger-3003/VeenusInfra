@@ -32,10 +32,19 @@ function About() {
                 className="bg-[#fff4e7] relative overflow-hidden py-14 flex items-center justify-center flex-col"
             >
                 <div className="w-[90vw] md:w-[45rem] lg:w-[58rem] xl:w-[70rem] flex items-center justify-between flex-col sm:flex-row gap-10">
-                    <div data-aos="fade-right" className="flex items-center justify-center flex-col">
-                        <img src={RoadMap} alt="Person" className="w-[70vw] sm:w-[15rem] md:w-[17rem] lg:w-[20rem]" />
+                    <div
+                        data-aos="fade-right"
+                        className="flex items-center justify-center flex-col"
+                    >
+                        <img
+                            src={RoadMap}
+                            alt="Person"
+                            className="w-[70vw] sm:w-[15rem] md:w-[17rem] lg:w-[20rem]"
+                        />
                         <div className="flex items-center justify-center flex-col font-[Montserrat] mt-5">
-                            <p className="font-semibold text-xl bg-gradient-to-br from-BStart via-BMiddle to-BEnd text-transparent bg-clip-text">Sri Sai Sarada</p>
+                            <p className="font-semibold text-xl bg-gradient-to-br from-BStart via-BMiddle to-BEnd text-transparent bg-clip-text">
+                                Sri Sai Sarada
+                            </p>
                             <p>(OnGoing Project)</p>
                         </div>
                     </div>
@@ -46,7 +55,7 @@ function About() {
                     >
                         <div>
                             <p className="text-center font-medium text-xl sm:text-2xl md:text-3xl font-[Montserrat] bg-gradient-to-r from-BStart via-BMiddle to-BEnd text-transparent bg-clip-text">
-                                Veenus Infra
+                                AAR Constructions
                             </p>
                             <p className="text-center font-[Italiana] text-BEnd text-xl sm:text-2xl">
                                 Redefining home ownership, one perfect house at
@@ -55,8 +64,8 @@ function About() {
                         </div>
                         <div>
                             <p className="text-center text-sm sm:text-base sm:text-left font-[Montserrat]">
-                                Veenus Infra (India) Pvt. Ltd, a leading real
-                                estate developer in Visakhapatnam, has over
+                                AAR Constructions (India) Pvt. Ltd, a leading
+                                real estate developer in Visakhapatnam, has over
                                 years of experience crafting premier residential
                                 and commercial spaces. The company ensures
                                 quality construction through an experienced team
@@ -68,10 +77,16 @@ function About() {
                 </div>
                 <div className="flex items-center justify-center flex-wrap sm:flex-row gap-10 mt-10">
                     <div>
-                        <img src={RoadMapBig} alt="RoadMap" className="h-60 sm:h-80"/>
+                        <img
+                            src={RoadMapBig}
+                            alt="RoadMap"
+                            className="h-60 sm:h-80"
+                        />
                     </div>
                     <div className="font-[Montserrat]">
-                        <h1 className="bg-gradient-to-tr from-BStart via-BMiddle to-BEnd bg-clip-text text-transparent font-bold text-xl sm:text-2xl lg:text-3xl">Location Highlights</h1>
+                        <h1 className="bg-gradient-to-tr from-BStart via-BMiddle to-BEnd bg-clip-text text-transparent font-bold text-xl sm:text-2xl lg:text-3xl">
+                            Location Highlights
+                        </h1>
                         <ul className="list-disc ml-5 font-medium mt-2">
                             <li>3.5km to Inorbit Mall</li>
                             <li>3.1km to ASN Megha Mall</li>

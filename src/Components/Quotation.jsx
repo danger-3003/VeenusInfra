@@ -15,8 +15,8 @@ function Quotation() {
             <div className="xl:w-[70rem] flex items-center justify-between flex-col sm:flex-row gap-10">
                 <p className="font-[Montserrat] text-center sm:text-left text-lg md:text-xl lg:text-2xl text-white sm:basis-[70%] py-10 px-10 xl:pl-0">
                     Our commitment to values, timely delivery, and customer
-                    satisfaction makes Veenus Infra the preferred choice for
-                    homeowners.
+                    satisfaction makes AAR Constructions the preferred choice
+                    for homeowners.
                 </p>
                 <div className="bg-[#fff2e780] hidden sm:flex h-60 w-60 items-center justify-center backdrop-blur-md">
                     <img src={Logo} alt="w-60" />

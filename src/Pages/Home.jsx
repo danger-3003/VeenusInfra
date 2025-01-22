@@ -33,7 +33,7 @@ function Home() {
                         className="w-[90vw] lg:w-[60rem] xl:w-[70rem] flex items-center sm:items-end justify-center flex-col"
                     >
                         <p className="font-light text-[1.7rem] sm:text-[2.5rem] md:text-[3rem] lg:text-[4rem] text-center sm:text-left tracking-widest">
-                            Veenus Infra
+                            AAR Constructions
                         </p>
                         <p className="font-bold text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center sm:text-left">
                             Redefining Modern Living

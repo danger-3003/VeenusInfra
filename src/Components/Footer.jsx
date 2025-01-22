@@ -17,7 +17,9 @@ function Footer() {
             }}
         >
             <div className="h-full w-full backdrop-blur flex items-center justify-start flex-col font-[Montserrat] text-white py-10">
-                <img src={Logo} alt="Logo" className="w-32 sm:w-40"/>
+                <div className="w-32 h-32 sm:w-40 sm:h-40 bg-white flex items-center rounded-full p-4">
+                    <img src={Logo} alt="Logo" className="w-32 sm:w-40"/>
+                </div>
                 <p className="font-medium text-center text-xl sm:text-2xl">
                     Buy Premium Apartments in vizag.
                 </p>
